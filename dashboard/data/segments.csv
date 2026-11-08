@@ -1,0 +1,6 @@
+segment,customers,revenue,total_recency_days
+Regular,46931,4191182.16,8857567
+Recent big spenders,14441,3856546.44,1356511
+Lapsed big spenders,13745,3800303.99,5418731
+Repeat customers,2789,725355.04,619473
+Lost low spenders,15198,607639.5,6021927

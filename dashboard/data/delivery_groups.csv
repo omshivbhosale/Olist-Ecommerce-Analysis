@@ -1,0 +1,7 @@
+delivery_group,reviews,review_points,bad_reviews
+1. 10+ days early,61270,264965,5430
+2. 0-9 days early,27912,117729,2817
+3. 1-3 days late,1851,6091,595
+4. 4-7 days late,1748,3676,1183
+5. 8-14 days late,1446,2416,1159
+6. 15+ days late,1333,2299,1044
